@@ -41,4 +41,5 @@ button {
 .gallery_img img {
   width: min(100%, 300px);
   aspect-ratio: 16 / 9;
+  display: block;
 }
